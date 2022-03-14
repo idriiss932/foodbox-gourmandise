@@ -1,0 +1,101 @@
+html{
+    font-family: 'Dancing Script', cursive;
+}
+body {
+    margin: 0 274px 0 274px;
+    /* border: 5px inset red; */
+    background-image: url(image/—Pngtree—solid\ color\ rose\ light\ pink_917532\ \(1\).jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:1350px  1090px ;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 250px;
+    margin-bottom: 0;
+    padding: 0;
+    margin: 30px 0 0 0 ;
+    padding: 325px 0 435px 0;
+    /* padding-bottom: 640px; */
+    text-shadow: 4px 3px 0px white;
+}
+p{
+    position: absolute;
+    left: 755px;
+    top: 605px;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    
+}
+/* image decouper */
+/* #image-decouper{
+    position: absolute;
+    top: 0px;
+    rotate: 50%;
+
+}
+#image-decouper2{
+    position: absolute;
+} */
+
+
+#image-gauche-bas{
+    position: absolute;
+    top: 15px;
+    right: 1200px;
+    border-radius: 0 50% 50% 50%  ;
+    border: 7px solid transparent;
+    -webkit-box-shadow: 0px 0px 15px 7px #CBFFF1; 
+    box-shadow: 0px 0px 15px 7px white;
+}
+#image-droite-bas{
+    position: absolute;
+    left: 1200px;
+    top: 15px;
+    /* border-radius: 0% 30% 0 50% ; */
+    border: 7px solid transparent;
+    border-radius: 50% 0% 50% 50%;
+    -webkit-box-shadow: 0px 0px 15px 7px #CBFFF1; 
+    box-shadow: 0px 0px 15px 7px white;
+}
+
+/* ****contact**** */
+ul{
+    padding: 0;
+    list-style-type: none;
+    list-style-position: outside;
+}
+#h2-contact {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+   
+    left: 842.500px;
+    top: 780px;
+}
+#contact{
+    position: absolute;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    top: 850px;
+    right: 829px;
+    font-size: 30px;
+    line-height: 2em;
+}
+#insta{
+    position: absolute;
+    top: 895px;
+    left: 820px;
+    font-size: 30px;
+}
+#facebook{
+    position: absolute;
+    top: 953px;
+    left: 790px;
+    font-size: 30px;
+}
